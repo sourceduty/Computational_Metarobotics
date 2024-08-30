@@ -1,6 +1,6 @@
 ![Computational Metarobotics](https://github.com/user-attachments/assets/c69c992d-03b5-48e6-bb54-f52bb9f1e8cb)
 
-> An emerginc scientific research subject that combines robotics, artificial intelligence, and computational theory to create sophisticated, autonomous robotic systems capable of higher-order reasoning and decision-making.
+> An emerging scientific research subject that combines robotics, artificial intelligence, and computational theory to create sophisticated, autonomous robotic systems capable of higher-order reasoning and decision-making.
 
 #
 
