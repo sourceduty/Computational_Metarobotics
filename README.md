@@ -24,6 +24,8 @@ Additionally, Computational Metarobotics aims to create a framework that support
 [Theory](https://github.com/sourceduty/Theory)
 <br>
 [Computational Theory](https://github.com/sourceduty/Computational_Theory)
+<br>
+[New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
