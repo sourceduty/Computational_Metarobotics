@@ -44,7 +44,9 @@ Moreover, the ethical considerations are embedded in the system's decision-makin
 #
 ### Concepts of Computational Metarobotics
 
-Computational Metarobotics is a multidisciplinary field that integrates robotics, artificial intelligence, and computational theory to create advanced robotic systems capable of higher-order reasoning, self-improvement, and adaptation in dynamic environments. Here is a list of key concepts in Computational Metarobotics:
+Computational Metarobotics is a multidisciplinary field that integrates robotics, artificial intelligence, and computational theory to create advanced robotic systems capable of higher-order reasoning, self-improvement, and adaptation in dynamic environments. 
+
+Here is a list of key concepts in Computational Metarobotics:
 
 #### Higher-Order Reasoning
 
