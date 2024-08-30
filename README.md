@@ -13,7 +13,7 @@ Additionally, Computational Metarobotics aims to create a framework that support
 ......................................................................................................................
 
 ```
-Develop an autonomous autonomous robotic system.
+Develop an autonomous computational metarobotic system.
 Automate experimental procedures and simulations.
 Develop a computational metarobotics model.
 List computational metarobotics concepts.
