@@ -146,6 +146,8 @@ These concepts form the foundation of Computational Metarobotics and guide the d
 [Computational Theory](https://github.com/sourceduty/Computational_Theory)
 <br>
 [New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
+<br>
+[Network Circuit Theory](https://github.com/sourceduty/Network_Circuit_Theory)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
