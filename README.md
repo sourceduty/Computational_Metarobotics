@@ -22,6 +22,8 @@ List computational metarobotics concepts.
 #
 ### Computational Metarobotics Framework
 
+![Robotic](https://github.com/user-attachments/assets/a37c4911-48ce-470a-9e26-b99924a4219d)
+
 Computational Metarobotics can be defined as the intersection of robotics, artificial intelligence, and computational theory to create a higher-order understanding of robotic systems. This framework emphasizes not only the design and control of individual robots but also the complex interactions between multiple robotic systems, their environments, and the overarching computational algorithms that drive their operations. The goal is to develop systems that are self-organizing, adaptive, and capable of learning from their interactions to improve functionality over time. The framework considers various computational methods, such as machine learning, neural networks, and evolutionary algorithms, to simulate and predict robotic behavior in complex, dynamic environments.
 
 In Computational Metarobotics, the focus is on metacognition and meta-control, which involve higher-level reasoning about robotic states and actions. This is achieved by creating models that allow robots to not only perform tasks but also understand the underlying principles and rules governing those tasks. By incorporating computational models that simulate real-world physics and probabilistic reasoning, these systems can anticipate and adapt to changes in their environment. This aspect of the framework is essential for developing robust robotic systems capable of functioning autonomously in unpredictable settings.
